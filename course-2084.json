@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "2026f-autotest/2026f-rustlings-zk-heart",
-  "commit": "7ea17cf0ae88b1d8c609655a6d3efbe9ea5b2965",
-  "score": 43,
+  "commit": "eed2ea6cf2b137f6d439e688dc6b5ec96d3539fe",
+  "score": 46,
   "totalScore": 110,
   "exercises": [
     {
@@ -310,23 +310,23 @@
     {
       "name": "hashmaps1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "hashmaps2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "hashmaps3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "quiz2",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "zk-heart",
-  "runId": "35230151696",
+  "runId": "35234176762",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
